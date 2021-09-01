@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.title {
+    font-size: 20px;
+    color: white;
+}
+
+.dropdown {
+    color: white;
+}
+
+.dropdown > * {
+    margin: 3px;
+}
+
+.avatar {
+    background-color: #f56a00;
+    vertical-align: middle;
+}
+
+.menu-item-icon {
+    width: 45px;
+    height: 45px;
+}
