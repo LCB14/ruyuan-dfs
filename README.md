@@ -7,7 +7,7 @@
 ### 公众号:儒猿技术窝
 
 更多技术干货，请扫描下方二维码，关注公众号儒猿技术窝
-![](img/ruyuan.jpeg#id=Ccndh&originalType=binary&ratio=1&status=done&style=none)
+![](img/ruyuan.jpeg)
 
 
 
